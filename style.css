@@ -1,0 +1,243 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+nav {
+    margin-top: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 415px;
+}
+
+.ula1 ul {
+    margin-top: 10px;
+    display: flex;
+    gap: 35px;
+    list-style-type: none;
+}
+
+li {
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    margin-top: 10px;
+    color: grey;
+    text-decoration: none;
+}
+
+.ula1 ul li a {
+    color: gray;
+}
+
+.ula1 ul li a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.right1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.button1 {
+    display: flex;
+    gap: 15px;
+}
+
+.button1  button {
+    width: 132px;
+height: 44px;
+background-color: white;
+border-radius: 8px ;
+border: 1px solid orange;
+color: orange;
+}
+
+.button1  button:hover {
+    background-color: orange;
+    color: white;
+}
+
+.d1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 150px;
+    margin-top: 100px;
+}
+
+.input1  input{
+    width: 180px;
+height: 42px;
+border-radius: 6px ;
+border: 0.8px solid gray;
+background-color: white;
+}
+
+.input2  input{
+    width: 180px;
+height: 42px;
+border-radius: 6px ;
+border: 0.8px solid gray;
+background-color: white;
+}
+
+
+
+.left2 {
+    margin-top: 150px;
+}
+
+.left2 .input1 {
+    margin-top: 30px;
+}
+
+.left2 .input2 {
+    margin-top: 30px;
+}
+
+.left2 button {
+    margin-top: 30px;
+    width: 160px;
+height: 40px;
+border-radius: 8px ;
+background-color: orange;
+color: white;
+border: none;
+}
+
+.input1 {
+    display: flex;
+    gap: 20px;
+}
+
+.input2 {
+    display: flex;
+    gap: 20px;
+}
+
+.right3 button {
+    margin-top: 30px;
+    width: 160px;
+height: 40px;
+border-radius: 8px ;
+background-color: orange;
+color: white;
+border: none;
+}
+
+.d2 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
+
+.right3 {
+    margin-top: 150px;
+}
+
+.right3 p {
+margin-top: 20px;
+}
+
+.right3 button {
+    gap: 20px;
+}
+
+.left4 {
+    margin-top: 170px;
+}
+
+.left4 p {
+margin-top: 20px;
+}
+
+.left4 button {
+    margin-top: 30px;
+    width: 160px;
+    gap: 20px;
+height: 40px;
+border-radius: 8px ;
+background-color: orange;
+color: white;
+border: none;
+}
+
+.d4 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
+
+.d5 {
+    margin-top: 100px;
+}
+
+
+.d51 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    gap: 170px;
+}
+
+.d51 .left5 p{
+margin-top: 40px;
+}
+
+.d51 .left5 strong {
+    margin-top: 40px;
+    }
+
+    .left5 {
+        margin-top: 100px;
+        width: 400px;
+    }
+
+    footer {
+        margin-top: 100px;
+        padding: 50px;
+        background-color: rgb(246, 240, 240);
+    }
+
+    .d7 {
+        display: flex;
+        justify-content: space-between;
+        gap: 100px;
+    }
+
+    .img6 {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .d3 {
+        margin-top: 100px;
+    }
+
+    .b11 {
+        display: flex;
+        gap: 800px;
+    }
+
+    .b12 {
+        display: flex;
+        justify-content: space-between;
+        gap: 50px;
+    }
